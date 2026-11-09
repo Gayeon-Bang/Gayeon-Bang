@@ -1,4 +1,4 @@
-<img src="assets/profile.png" width="140" align="right" alt="방가연 프로필 사진" />
+
 
 # 안녕하세요, 방가연입니다 👋
 
