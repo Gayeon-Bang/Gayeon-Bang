@@ -8,7 +8,7 @@
 
 - 📧 bangga5589@gmail.com
 - 🎓 인천대학교 미디어커뮤니케이션학과 · 산업경영공학 복수전공
-- 📄 **포트폴리오 (Notion):** [방가연 | Data Analyst Portfolio](https://app.notion.com/p/4084070d20ad81949bf0cc8775680080)
+- 📄 **포트폴리오 (Notion):** [방가연 | Data Analyst Portfolio](https://skinny-sloth-e6a.notion.site/Data-Analyst-Portfolio-4084070d20ad81949bf0cc8775680080?source=copy_link)
 
 ## 💼 Experience
 
